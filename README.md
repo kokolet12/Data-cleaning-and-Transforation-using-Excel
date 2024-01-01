@@ -12,6 +12,7 @@ Not till I sourced for these questions before I went head to create this data on
 -	I had to highlight the entire name column then clicked on text to column then clicked the space tab then I clicked the text tab and ok tab
 ![Staff payroll 2](https://github.com/kokolet12/kokoletformulated1/assets/155350323/683ca083-f52e-436b-8924-e2a530af5e81)
 -	I used the find tab to locate the duplicated names
+![staff payroll Duplicate](https://github.com/kokolet12/kokoletformulated1/assets/155350323/b16cdef8-5b8d-4bb2-839e-c0d6dc58812d)
 -	I used conditional formatting then colour slides to differentiate the salary ranges
 ## conclusion
 I will say that, data cleaning is very important so as to avoid duplicated data and also to make it easier for visualization.
